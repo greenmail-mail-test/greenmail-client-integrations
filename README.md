@@ -1,10 +1,11 @@
 # GreenMail client integrations
 
-This project helps integrating [GreenMail](https://github.com/greenmail-mail-test/greenmail) with various email clients.
+This project helps integrate [GreenMail](https://github.com/greenmail-mail-test/greenmail) with various email clients.
 
 * [Roundcube](roundcube)
 * [Rainloop](rainloop)
 * [SquirrelMail](squirrelmail)
+* [SnappyMail](snappymail)
 
 ## License
 
